@@ -343,10 +343,14 @@ border: none !important;
     float: left;
 }
 
-.product-subtotal, .product-price, .cart_totals .shop_table, .cart_totals h2, .product-total, .return-to-shop, #billing_company, .cart-subtotal, .order-total, #billing_company_field, #billing_country_field, .woocommerce-order-overview__total  {
+.product-subtotal, .product-price, .cart_totals .shop_table, .cart_totals h2, .product-total, .return-to-shop, #billing_company, #billing_company_field, #billing_country_field, .woocommerce-order-overview__total  {
 display: none;
 }
 
+.order-total {
+    font-size: 22px;
+    font-weight: bold!important;
+}
 .checkout-button {
     background-color: #e30613 !important;
     float: right;

@@ -1,0 +1,508 @@
+h3 {
+font-size: 28px;
+font-weight: 400;
+}
+p {
+margin: 10px 0 20px;
+}
+
+.wrapper_inner {
+background: url(https://divineuk.org/wp-content/uploads/2019/02/Rectangle-1.png) no-repeat;
+background-size: 100%;
+}
+
+.latest_post_two_holder .latest_post_two_text {
+    padding: 34px 31px 20px;
+}
+
+.latest_post_two_holder .latest_post_two_text .separator.small {
+    width: 24px;
+    margin: 3px 0 10px;
+}
+
+.latest_post_two_holder .latest_post_two_info {
+    padding: 0 33px 33px;
+    border-top: none;
+}
+
+.latest_post_two_holder .latest_post_two_info_inner>* {
+    position: relative;
+    display: block;
+    vertical-align: top;
+    font-size: 13px;
+}
+header .header_inner_left {
+    left: 30px;
+}
+.q_social_icon_holder.normal_social {
+    margin: 0;
+}
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz {
+    background-color: #ffffff;
+}
+
+.latest_post_two_holder .latest_post_two_info_inner .post_info_author_name, .latest_post_two_holder .latest_post_two_info_inner .post_info_date  {
+    color: #222;
+text-align: left !important;
+}
+
+.post_info_date {
+font-size: 12px !important;}
+
+.post_info_author .post_info_author_name {
+color: #E52621 !important;
+margin-bottom: -5px
+}
+
+.q_dropcap {
+    margin: -3px 2px 0 0;
+}
+
+.q_dropcap.normal {
+    font-weight: 600;
+    left: -10px;
+}
+
+.single_tags h5 {
+    margin-right: 6px;
+}
+
+.comment_holder .comment {
+    background-color: #fafafa;
+    padding: 34px 23px 40px;
+}
+
+.comment_holder .comment_date {
+    font-size: 12px;
+}
+
+div.comment_form {
+    margin: 0 0 95px;
+}
+
+.carousel-inner  .image {
+  background-image: none !important;
+}
+
+.carousel-inner  .image {
+ background: none !important;
+}
+
+.carousel-inner {
+background-image: url('https://divineuk.org/wp-content/uploads/2019/02/bg-1.jpg') !important;
+background-color: #ffe489;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+h4 a, h4 {
+text-decoration: none !important;
+line-height: 38px !important;
+font-size: 24px;
+font-weight: 500;
+}
+
+h4 a:hover {
+text-decoration: underline !important;
+color: #8b1e3f !important;
+}
+
+#WordOfGod .widget_dailyverseswidget {
+ padding-top: 66px;
+background-image: url('https://divineuk.org/wp-content/uploads/2019/01/tulip-outline-variant.png');
+background-repeat: no-repeat;
+background-position: center top;
+}
+
+.latest_post_two_holder .latest_post_two_info_inner img {
+display: none;
+}
+
+.textwidget iframe {
+width: 100%;
+}
+
+.prayers a {
+    padding: 10px 19px;
+    margin: 20px 0;
+    display: block;
+    background-color: #284392;
+    float: left;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.textwidget .ftlinks a {
+    display: block;
+    color: #f6cc5a;
+    text-decoration: none;
+    padding: 10px 0 0px;
+    margin: 0 0 10px 0;
+}
+
+.textwidget .ftlinks {
+    margin-left: 30px;
+}
+
+footer {
+margin-top: 100px;
+}
+
+.blog_holder.blog_single article h2 {
+font-family: 'Lato', sans-serif;
+font-size: 40px;
+}
+
+h3, h2 {
+line-height: 1.3;
+margin-top: 50px;
+}
+
+.blog_holder.masonry article .post_text .post_text_inner {
+    background-color: #fff !important;
+}
+
+.blog_holder.blog_masonry_date_in_image article .post_text .post_text_inner {
+text-align: left !important;
+padding: 20px;
+
+}
+
+header.centered_logo .header_inner_left {
+    margin: 20px 0 -38px !important;
+}
+
+header.scrolled .header_inner_left {
+    margin: 20px 0 -64px !important;
+}
+
+.content .container .container_inner.default_template_holder, .content .container .container_inner.page_container_inner {
+padding-top: 0 !important;
+}
+
+.q_logo img {
+width: 300px !important;
+}
+
+.scrolled .q_logo img {
+width: 200px !important;
+} 
+
+header.fixed.scrolled .header_bottom, header.fixed.scrolled .header_top, header.fixed_hiding.scrolled .header_bottom, header.fixed_hiding.scrolled .header_top {
+    background-color: #feefb6 !important; 
+}
+
+.cart-collaterals {
+    overflow: hidden;
+}
+
+.woocommerce {
+    background-color: #fff;
+    width: 100%;
+    margin: 0 auto;
+    padding: 26px;
+    margin-top: 10px !important;
+    overflow: hidden;
+}
+
+.myaccount_user, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce div.message {
+background-color: #eee !important;
+color: #999 !important;
+text-transform: lowercase;
+padding: 6px 10px 4px !important;
+margin-bottom: 0 !important;
+}
+
+.woocommerce-order h2 {
+display: none !important;
+}
+
+.shop_table .cart_item.evo_event_ticket_item .item_meta_data span b, .shop_table .cart_item.evo_event_ticket_item .variation dt {
+margin-top: 20px;
+color: #000 !important;;
+}
+
+.woocommerce-cart table.cart tbody tr td a:not(.checkout-button), .woocommerce-checkout .checkout table tbody tr td a {
+    color: #000 !important;;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.woocommerce-cart table.cart tbody tr td, .woocommerce-checkout .checkout table tbody tr td {
+    vertical-align: top !important;
+}
+
+.evoTX_wc.tximg .evoTX_wc_section {
+width: 100% !important;
+}
+
+.evoTX_wc.tximg .evotx_image {
+display: none !important;
+}
+
+.product-quantity .quantity .input-text.text {
+color: #000 !important;
+    width: 60px;
+    height: 31px;
+}
+
+.product-quantity .quantity label, #billing_state {
+display: none;
+}
+
+.woocommerce form.checkout .col2-set .form-row {
+width: 46% !important;
+}
+
+.woocommerce form.checkout .col2-set .form-row.form-row-wide input[type=text], .woocommerce form.checkout .col2-set .form-row.notes textarea {
+width: 90% !important;
+}
+
+.woocommerce form.checkout .col2-set .form-row-wide {
+float: left !important;
+}
+
+.evo_event_information span {
+font-size: 14px;
+color: #999;
+}
+
+.evo_event_information b {
+display: block;
+font-size: 14px;
+color: #000;
+}
+
+.evotx_ticket_purchase_section p.price.tx_price_line {
+padding: 0 0 20px 0 !important;
+margin-top: 20px;
+}
+
+.evoTX_wc.tximg .evoTX_wc_section {
+padding-top: 0 !important;
+}
+
+.ajde_evcal_calendar strong {
+font-weight: 900 !important;
+}
+
+.ajde_evcal_calendar .evoTX_wc_section .evotx_quantity, .evo_lightbox_content .evoTX_wc_section .evotx_quantity, body #evcal_list .eventon_list_event .evoTX_wc .evotx_addtocart_total {
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+
+.evotx_ticket_purchase_section {
+margin-top: 20px;
+ width: 100%;
+ margin-right: 0 !important;
+}
+
+.evotx_addtocart_total, .tx_price_line .value {
+display: none !important;
+}
+
+.evotx_remaining {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 40px;
+}
+
+
+#evcal_list .eventon_list_event .event_description .evcal_btn, .evo_pop_body .evcal_btn, .evoTX_wc .variations_button .evcal_btn, .evo_lightbox.eventon_events_list .eventon_list_event .evoTX_wc a.evcal_btn {
+background-color: #e30613 !important;
+}
+
+.tx_price_line {
+margin-top: 60px !important;
+border: none !important;
+font-weight: 700;
+font-size: 18px !important;
+}
+
+.evoAddToCart {
+margin-top: 30px !important;
+}
+
+.evoTX_wc_section .evotx_quantity .qty b.plu, .evotx_qty_adjuster b.plu {
+background-color: #e30613 !important;
+    top: 1px;
+    line-height: 32px !important;
+}
+
+p.evotx_remaining span.evotx_remaining_stock {
+background-color: #000 !important;
+color: #fff !important;
+border: none !important;
+}
+
+.tx_price_line .evo_label {
+    display: block;
+    float: left;
+}
+
+.product-subtotal, .product-price, .cart_totals .shop_table, .cart_totals h2, .product-total, .return-to-shop, #billing_company, .cart-subtotal, .order-total, #billing_company_field, #billing_country_field, .woocommerce-order-overview__total  {
+display: none;
+}
+
+.checkout-button {
+    background-color: #e30613 !important;
+    float: right;
+}
+
+.evotx_tai_oneholder span {
+    color: #000;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 30px;
+    display: block;
+    clear: both;
+}
+
+form.woocommerce-checkout .evotx_checkout_additional_names .evotx_ticket_additional_info {
+border-bottom: none !important;
+}
+
+.woocommerce-checkout table.shop_table {
+width: 100% !important;
+}
+
+.woocommerce .col-1, .woocommerce .col-2 {
+width: 100% !important;
+}
+
+.woocommerce form.checkout .col2-set p.form-row label {
+display: block !important;
+}
+
+.woocommerce form.checkout .col2-set .form-row input[type=text], .woocommerce form.checkout .col2-set .form-row input[type=email], .woocommerce form.checkout .col2-set .form-row input[type=password], .woocommerce form.checkout .col2-set .form-row input[type=tel] {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 18px !important;
+}
+
+.woocommerce .checkout table.shop_table thead tr, .woocommerce table.cart thead tr, .woocommerce-account table.my_account_orders thead tr, .woocommerce-page .checkout table.shop_table thead tr, .woocommerce-page table.cart thead tr, .woocommerce table.cart tbody td.product-remove, .woocommerce-page table.cart tbody td.product-remove, .woocommerce-account table.my_account_orders tbody tr, .woocommerce-cart table.cart tbody tr {
+border: none !important;
+}
+
+.woocommerce .checkout table.shop_table thead tr th, .woocommerce table.cart thead tr th, .woocommerce-account table.my_account_orders thead tr th, .woocommerce-page .checkout table.shop_table thead tr th, .woocommerce-page table.cart thead tr th, .woocommerce-page table.my_account_orders thead tr th {
+color: #e30613 !important;
+}
+
+.product-name a {
+    font-size: 20px !important;
+    font-weight: 700;
+}
+
+.woocommerce form.checkout h3, .woocommerce-page form.checkout h3 {
+    color: #e30613;
+    font-weight: 500;
+    font-size: 30px !important;
+    margin-bottom: 0;
+}
+
+.woocommerce p.form-row {
+margin-top: 10px;
+}
+
+.woocommerce .select2-container, .woocommerce-page .select2-container {
+width: 100% !important;
+}
+
+.select2-selection__clear {
+display: none;
+}
+
+.woocommerce form .form-row .required {
+color: #e30613;
+}
+
+.woocommerce form.checkout table.shop_table td, .woocommerce form.checkout table.shop_table th {
+text-align: left !important;
+}
+
+.woocommerce-account h2, .woocommerce-account h3, .woocommerce-checkout h2, .woocommerce-checkout h3 {
+font-size: 44px !important;
+margin-top: 0px;
+}
+
+.checkout #order_review_heading, .checkout #order_review {
+margin: 0 10%;
+width: 80%;
+}
+
+.woocommerce button.button, .woocommerce-page button.button, .woocommerce-page input[type=submit], .qbutton, .qbutton.medium, #submit_comment, .load_more a, .blog_load_more_button a, .post-password-form input[type='submit'], input.wpcf7-form-control.wpcf7-submit, input.wpcf7-form-control.wpcf7-submit:not([disabled]), .woocommerce table.cart td.actions input[type="submit"], .woocommerce input#place_order, .woocommerce-page input[type="submit"], .woocommerce .button {
+background-color: #e30613 !important;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.woocommerce-page .woocommerce-cart-form button.button {
+background-color: #000 !important;
+}
+
+.woocommerce-order-details__title, .order-again, .woocommerce-table--order-details tfoot, .woocommerce-order .woocommerce-customer-details {display: none;}
+
+.evotx_event_tickets_section {
+display: none;
+}
+
+#order_comments {
+width: 90%;
+}
+
+.evotx_success_msg {
+display: none !important;
+}
+
+.header-widget.header-right-from-logo-widget {
+    position: absolute;
+    top: 0;
+    height: 24px;
+    right: 10%;
+}
+
+.header-right-from-logo-widget li a {
+color: #e30613 !important;
+}
+
+.qode_slider_preloader {
+    background-color: #fff !important;
+}
+
+.services-icon {
+background-color: #eee; border-radius: 158px; display: block; width: 80px; height: 80px; text-align: center; margin: 10px auto 22px !important; padding: 10px; margin-bottom: 20px; }
+
+.daily-service h4, .daily-service h5 {
+margin-bottom: 10px; }
+
+.daily-service h5 {
+font-size: 18px;
+margin-top: 15px;
+}
+
+.daily-service p {
+line-height: 1.4; }
+
+.daily-service.row-1 .wpb_text_column {
+height: 350px; }
+
+.daily-service.row-2 .wpb_text_column {
+height: 550px; }
+
+aside .widget {margin: 0 !important;}
+
+@media only screen and (max-width: 600px) {
+.blog_holder.blog_single article h2, .blog_holder.blog_large_image h2, .blog_holder.blog_large_image h2 a {
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.evo_page_body .eventon_main_section {padding: 50px 20px 20px  !important;}
+.evo_page_body .evo_metarow_directimg img {height: auto !important;}
+.evo_page_body .evcal_evdata_row .evcal_evdata_cell, .evo_page_body .evo_metarow_learnMICS .evcal_col50 .evcal_evdata_cell {padding-left: 0 !important; padding-right: 0 !important;}
+}
